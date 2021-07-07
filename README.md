@@ -1,4 +1,4 @@
-### Hi there, I'm Chris 👋
+### Hi there, I'm Chris <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 - 🌱 I’m currently learning as much as I can, looking to move from a hobbist to a professional developer.
 
