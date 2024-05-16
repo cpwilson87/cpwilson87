@@ -16,4 +16,4 @@
 - React/Next
 - Svelte/SvelteKit
 
-### Skills 
+<-- ### Skills -->
