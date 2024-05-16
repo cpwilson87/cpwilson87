@@ -15,5 +15,3 @@
 - Blazor
 - React/Next
 - Svelte/SvelteKit
-
-<-- ### Skills -->
